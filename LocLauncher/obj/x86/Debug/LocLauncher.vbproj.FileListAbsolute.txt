@@ -9,3 +9,14 @@ C:\SkyFireEMU\Pruebas Launcher\LocLauncher\LocLauncher\obj\x86\Debug\GenerateRes
 C:\SkyFireEMU\Pruebas Launcher\LocLauncher\LocLauncher\obj\x86\Debug\LocLauncher.exe
 C:\SkyFireEMU\Pruebas Launcher\LocLauncher\LocLauncher\obj\x86\Debug\LocLauncher.xml
 C:\SkyFireEMU\Pruebas Launcher\LocLauncher\LocLauncher\obj\x86\Debug\LocLauncher.pdb
+C:\SkyFireEMU\PruebasLauncher\LocLauncher\LocLauncher\obj\x86\Debug\LocLauncher.exe
+C:\SkyFireEMU\PruebasLauncher\LocLauncher\LocLauncher\obj\x86\Debug\LocLauncher.xml
+C:\SkyFireEMU\PruebasLauncher\LocLauncher\LocLauncher\obj\x86\Debug\LocLauncher.pdb
+C:\SkyFireEMU\PruebasLauncher\LocLauncher\LocLauncher\bin\Debug\LocLauncher.exe
+C:\SkyFireEMU\PruebasLauncher\LocLauncher\LocLauncher\bin\Debug\LocLauncher.pdb
+C:\SkyFireEMU\PruebasLauncher\LocLauncher\LocLauncher\bin\Debug\LocLauncher.xml
+C:\SkyFireEMU\PruebasLauncher\LocLauncher\LocLauncher\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SkyFireEMU\PruebasLauncher\LocLauncher\LocLauncher\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\SkyFireEMU\PruebasLauncher\LocLauncher\LocLauncher\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\SkyFireEMU\PruebasLauncher\LocLauncher\LocLauncher\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\SkyFireEMU\PruebasLauncher\LocLauncher\LocLauncher\obj\x86\Debug\GenerateResource.write.1.tlog

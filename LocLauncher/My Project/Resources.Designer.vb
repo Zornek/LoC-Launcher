@@ -83,7 +83,7 @@ Namespace My.Resources
         
         Friend ReadOnly Property Cataclysm___By_Ez_Crespo() As System.Drawing.Bitmap
             Get
-                Dim obj As Object = ResourceManager.GetObject("Cataclysm _ By Ez Crespo", resourceCulture)
+                Dim obj As Object = ResourceManager.GetObject("Cataclysm___By_Ez_Crespo", resourceCulture)
                 Return CType(obj,System.Drawing.Bitmap)
             End Get
         End Property
@@ -98,13 +98,6 @@ Namespace My.Resources
         Friend ReadOnly Property logo2() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("logo2", resourceCulture)
-                Return CType(obj,System.Drawing.Bitmap)
-            End Get
-        End Property
-        
-        Friend ReadOnly Property logoloc() As System.Drawing.Bitmap
-            Get
-                Dim obj As Object = ResourceManager.GetObject("logoloc", resourceCulture)
                 Return CType(obj,System.Drawing.Bitmap)
             End Get
         End Property

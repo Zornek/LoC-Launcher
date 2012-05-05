@@ -1,0 +1,11 @@
+C:\SkyFireEMU\PruebasLauncher\LocLauncher\LocLauncher\obj\x86\Release\ResolveAssemblyReference.cache
+C:\SkyFireEMU\PruebasLauncher\LocLauncher\LocLauncher\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\SkyFireEMU\PruebasLauncher\LocLauncher\LocLauncher\obj\x86\Release\GenerateResource.read.1.tlog
+C:\SkyFireEMU\PruebasLauncher\LocLauncher\LocLauncher\obj\x86\Release\GenerateResource.write.1.tlog
+C:\SkyFireEMU\PruebasLauncher\LocLauncher\LocLauncher\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\SkyFireEMU\PruebasLauncher\LocLauncher\LocLauncher\bin\Release\LocLauncher.exe
+C:\SkyFireEMU\PruebasLauncher\LocLauncher\LocLauncher\bin\Release\LocLauncher.pdb
+C:\SkyFireEMU\PruebasLauncher\LocLauncher\LocLauncher\bin\Release\LocLauncher.xml
+C:\SkyFireEMU\PruebasLauncher\LocLauncher\LocLauncher\obj\x86\Release\LocLauncher.exe
+C:\SkyFireEMU\PruebasLauncher\LocLauncher\LocLauncher\obj\x86\Release\LocLauncher.xml
+C:\SkyFireEMU\PruebasLauncher\LocLauncher\LocLauncher\obj\x86\Release\LocLauncher.pdb

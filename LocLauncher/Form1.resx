@@ -117,17 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="TextBox1.Text" xml:space="preserve">
-    <value>Bienvenidos al servidor de WoW Lords Of Chaos!
-
-El server aún se encuentra en estado de desarrollo
-
-y agradecemos toda la ayuda que podais 
-
-proporcionar!
-
-Lords Of Chaos. 4.0.6a. PvP-PvE.
-
-set realmlist lodsofchaos.no-ip.biz</value>
-  </data>
 </root>
