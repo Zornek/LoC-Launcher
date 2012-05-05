@@ -11,6 +11,22 @@ Public Class Form1
     Dim programsDirectory As String = My.Computer.FileSystem.SpecialDirectories.Programs
     Dim programFileDirectory As String = My.Computer.FileSystem.SpecialDirectories.ProgramFiles
     Dim tempDirectory As String = My.Computer.FileSystem.SpecialDirectories.Temp
+    Dim ex, ey As Integer
+
+    Dim Arrastre As Boolean
+    Private Sub Form1_MouseDown(ByVal sender As Object, ByVal e As System.Windows.Forms.MouseEventArgs) Handles MyBase.MouseDown
+        ex = e.X
+        ey = e.Y
+        Arrastre = True
+    End Sub
+
+    Private Sub Form1_MouseUp(ByVal sender As Object, ByVal e As System.Windows.Forms.MouseEventArgs) Handles MyBase.MouseUp
+        Arrastre = False
+    End Sub
+
+    Private Sub Form1_MouseMove(ByVal sender As Object, ByVal e As System.Windows.Forms.MouseEventArgs) Handles MyBase.MouseMove
+        If Arrastre Then Me.Location = Me.PointToScreen(New Point(Me.MousePosition.X - Me.Location.X - ex, Me.MousePosition.Y - Me.Location.Y - ey))
+    End Sub
     Private Sub TextBox1_TextChanged(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles TextBox1.TextChanged
 
     End Sub
